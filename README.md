@@ -70,7 +70,7 @@ Work includes engineering, analysis, and system development for modern verificat
 
 ---
 
-# 💎 Support (Optional)
+# 💎 Support 
 
 If you'd like to support my work and the community, you can contribute via crypto:
 
